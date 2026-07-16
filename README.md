@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
