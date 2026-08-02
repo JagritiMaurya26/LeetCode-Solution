@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/1480-running-sum-of-1d-array) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
