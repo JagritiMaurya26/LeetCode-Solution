@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0509-fibonacci-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0349-intersection-of-two-arrays](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/1672-richest-customer-wealth) |
@@ -86,4 +88,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/JagritiMaurya26/LeetCode-Solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
